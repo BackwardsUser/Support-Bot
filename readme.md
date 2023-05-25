@@ -1,11 +1,11 @@
 # Discord Support Bot
 
-StyLiS Studios' bot sucks.  
+[StyLiS Studios](https://www.roblox.com/groups/1103278/StyLiS-Studios#!/about)' bot sucks.  
 This bot is a teensy bit better.  
 Instead of having the annoying commands, it will be more like a dedicated chat room between staff and the user.  
 Before you'd have to use commands to start, reply and end a conversation, but with this bot its as simple as having a conversation with the bot. Instead of starting with `-support` you can start just by saying something, it doesn't even need to be coherent. After opening a thread, the DM's becomes a dedicated chatroom between both support and the user, closing does still need to be a command, to prevent accidentally closing the thread mid conversation. However its as simple as `-done`.  
   
-While this *was* developed with StyLiS Studios in mind, feel free to go through and modify the code to suit the needs of your server, I will be releasing a modified version thats completely customizable after I finish this. 
+While this *was* developed with [StyLiS Studios](https://www.roblox.com/groups/1103278/StyLiS-Studios#!/about) in mind, feel free to go through and modify the code to suit the needs of your server, I will be releasing a modified version thats completely customizable after I finish this. 
   
 ## Looking for a discord bot?
 Contact me on Discord @ BackwardsUser#0149 (Soon to change)
