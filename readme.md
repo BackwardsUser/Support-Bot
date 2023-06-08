@@ -1,3 +1,8 @@
+## RELOCATION
+I don't really feel like developing this in spite of one developer anymore.
+I don't really feel like developing a "spite bot" over a customisable bot for the community.
+This bot is moving to [JASB](https://github.com/backwardsuser/jasb/).
+
 # Discord Support Bot
 
 [StyLiS Studios](https://www.roblox.com/groups/1103278/StyLiS-Studios#!/about)' bot sucks.  
